@@ -1,0 +1,68 @@
+
+# Galaxy Profile Configuration
+
+username: Tamashirax
+
+profile:
+  name: "Tamashirax"
+  tagline: "BSIT Student | Aspiring Software Developer"
+  company: ""
+  location: "Philippines"
+  bio: |
+    BSIT student at CIT-U focused on software development.
+    Learning C, C++, and Java through hands-on projects.
+    Building ideas into reality, one line at a time.
+  philosophy: '"Turning logic into solutions."'
+
+social:
+  email: ""
+  linkedin: ""
+  website: ""
+
+galaxy_arms:
+  - name: "Systems & Programming"
+    items:
+      - "C"
+      - "C++"
+      - "Java"
+  - name: "Software Development"
+    items:
+      - "Java"
+      - "C++"
+      - "Git"
+      - "GitHub Actions"
+  - name: "Web Fundamentals"
+    items:
+      - "HTML"
+      - "CSS"
+
+projects: []
+
+theme:
+  dark: "deep-sky"
+  light: "deep-sky"
+  void: "#090511"
+  text_bright: "#F5F0FF"
+  text_dim: "#B8A7D9"
+  text_faint: "#65547D"
+  synapse_cyan: "#C084FC"
+  dendrite_violet: "#8B5CF6"
+  axon_amber: "#E879F9"
+
+motion: true
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
