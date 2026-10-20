@@ -38,14 +38,13 @@ galaxy_arms:
 
 projects: []
 
-theme: "blue" # Change from purple/galaxy to blue
-
-colors:
-  primary: "#3B82F6" # Bright Blue
-  secondary: "#2563EB" # Royal Blue
-  accent: "#60A5FA" # Light Electric Blue
-  background: "#0B132B" # Deep Midnight Dark Blue
-  text: "#F8FAFC" # Off-white / Pure white
+theme:
+  mode: dark
+  primary: "#3B82F6"      # Vivid Blue
+  secondary: "#1E40AF"    # Dark Blue
+  accent: "#60A5FA"       # Light Electric Blue
+  background: "#0B132B"   # Deep Midnight Dark Blue
+  text: "#F8FAFC"         # White text
 
 motion: true
 
