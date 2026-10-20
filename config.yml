@@ -38,16 +38,14 @@ galaxy_arms:
 
 projects: []
 
-theme:
-  dark: "deep-sky"
-  light: "deep-sky"
-  void: "#090511"
-  text_bright: "#F5F0FF"
-  text_dim: "#B8A7D9"
-  text_faint: "#65547D"
-  synapse_cyan: "#C084FC"
-  dendrite_violet: "#8B5CF6"
-  axon_amber: "#E879F9"
+theme: "blue" # Change from purple/galaxy to blue
+
+colors:
+  primary: "#3B82F6" # Bright Blue
+  secondary: "#2563EB" # Royal Blue
+  accent: "#60A5FA" # Light Electric Blue
+  background: "#0B132B" # Deep Midnight Dark Blue
+  text: "#F8FAFC" # Off-white / Pure white
 
 motion: true
 
